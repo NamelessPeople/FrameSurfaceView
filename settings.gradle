@@ -1,0 +1,3 @@
+include ':frame_animation'
+include ':app'
+rootProject.name = "FrameSurfaceView"
